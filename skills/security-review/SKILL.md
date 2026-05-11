@@ -1,5 +1,5 @@
 ---
-name: security-review
+name: security-review / 安全审查 / 安全review / 安全审查 / 安全review / 安全审查 / 安全review / 安全审查
 description: Use this skill when adding authentication, handling user input, working with secrets, creating API endpoints, or implementing payment/sensitive features. Provides comprehensive security checklist and patterns.
 origin: ECC
 ---

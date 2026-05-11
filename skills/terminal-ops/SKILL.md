@@ -1,5 +1,5 @@
 ---
-name: terminal-ops
+name: terminal-ops / 终端运维 / 终端ops / 终端运维 / 终端ops / 终端运维 / 终端ops / 终端运维
 description: Evidence-first repo execution workflow for ECC. Use when the user wants a command run, a repo checked, a CI failure debugged, or a narrow fix pushed with exact proof of what was executed and verified.
 origin: ECC
 ---

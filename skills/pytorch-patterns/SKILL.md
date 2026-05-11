@@ -1,5 +1,5 @@
 ---
-name: pytorch-patterns
+name: pytorch-patterns / PyTorch模式 / PyTorchpatterns / PyTorch模式 / PyTorchpatterns / PyTorch模式 / PyTorchpatterns / PyTorch模式
 description: PyTorch deep learning patterns and best practices for building robust, efficient, and reproducible training pipelines, model architectures, and data loading.
 origin: ECC
 ---

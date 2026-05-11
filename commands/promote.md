@@ -1,5 +1,5 @@
 ---
-name: promote
+name: promote / PRomote / PRomote / PRomote
 description: Promote project-scoped instincts to global scope
 command: true
 ---

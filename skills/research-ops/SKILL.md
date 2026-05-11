@@ -1,5 +1,5 @@
 ---
-name: research-ops
+name: research-ops / 研究运维 / 研究ops / 研究运维 / 研究ops / 研究运维 / 研究ops / 研究运维
 description: Evidence-first current-state research workflow for ECC. Use when the user wants fresh facts, comparisons, enrichment, or a recommendation built from current public evidence and any supplied local context.
 origin: ECC
 ---

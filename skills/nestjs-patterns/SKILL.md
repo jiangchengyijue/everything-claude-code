@@ -1,5 +1,5 @@
 ---
-name: nestjs-patterns
+name: nestjs-patterns / NestJS模式 / NestJSpatterns / NestJS模式 / NestJSpatterns / NestJS模式 / NestJSpatterns / NestJS模式
 description: NestJS architecture patterns for modules, controllers, providers, DTO validation, guards, interceptors, config, and production-grade TypeScript backends.
 origin: ECC
 ---

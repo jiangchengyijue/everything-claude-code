@@ -1,5 +1,5 @@
 ---
-name: production-audit
+name: production-audit / 生产审计 / 生产audit / 生产审计 / 生产audit / 生产审计 / 生产audit / 生产审计
 description: Local-evidence production readiness audit for shipped apps, pre-launch reviews, post-merge checks, and "what breaks in prod?" questions without sending repo data to an external audit service.
 origin: community
 ---

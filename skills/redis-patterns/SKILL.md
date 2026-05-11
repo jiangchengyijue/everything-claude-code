@@ -1,5 +1,5 @@
 ---
-name: redis-patterns
+name: redis-patterns / Redis模式 / Redispatterns / Redis模式 / Redispatterns / Redis模式 / Redispatterns / Redis模式
 description: Redis data structure patterns, caching strategies, distributed locks, rate limiting, pub/sub, and connection management for production applications.
 origin: ECC
 ---

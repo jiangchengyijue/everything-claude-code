@@ -1,5 +1,5 @@
 ---
-name: enterprise-agent-ops
+name: enterprise-agent-ops / 企业代理运维 / 企业代理ops / 企业代理运维 / 企业代理ops / 企业代理运维 / 企业代理ops / 企业代理运维
 description: Operate long-lived agent workloads with observability, security boundaries, and lifecycle management.
 origin: ECC
 ---

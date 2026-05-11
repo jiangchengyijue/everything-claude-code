@@ -1,5 +1,5 @@
 ---
-name: springboot-tdd
+name: springboot-tdd / Spring BootTDD / Spring Boottdd / Spring BootTDD / Spring Boottdd / Spring BootTDD / Spring Boottdd / Spring BootTDD
 description: Test-driven development for Spring Boot using JUnit 5, Mockito, MockMvc, Testcontainers, and JaCoCo. Use when adding features, fixing bugs, or refactoring.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: ai-first-engineering
+name: ai-first-engineering / ai优先工程 / ai优先engineering / ai优先工程 / ai优先engineering / ai优先工程 / ai优先engineering / ai优先工程
 description: Engineering operating model for teams where AI agents generate a large share of implementation output.
 origin: ECC
 ---

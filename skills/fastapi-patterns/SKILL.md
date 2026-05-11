@@ -1,5 +1,5 @@
 ---
-name: fastapi-patterns
+name: fastapi-patterns / FastAPI模式 / FastAPIpatterns / FastAPI模式 / FastAPIpatterns / FastAPI模式 / FastAPIpatterns / FastAPI模式
 description: FastAPI patterns for async APIs, dependency injection, Pydantic request and response models, OpenAPI docs, tests, security, and production readiness.
 origin: community
 ---

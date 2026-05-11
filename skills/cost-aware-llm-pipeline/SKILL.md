@@ -1,5 +1,5 @@
 ---
-name: cost-aware-llm-pipeline
+name: cost-aware-llm-pipeline / 成本awareLLM管道 / 成本awareLLMpipeline / 成本awareLLM管道 / 成本awareLLMpipeline / 成本awareLLM管道 / 成本awareLLMpipeline / 成本awareLLM管道
 description: Cost optimization patterns for LLM API usage — model routing by task complexity, budget tracking, retry logic, and prompt caching.
 origin: ECC
 ---

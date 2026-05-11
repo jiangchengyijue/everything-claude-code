@@ -1,5 +1,5 @@
 ---
-name: docker-patterns
+name: docker-patterns / Docker模式 / Dockerpatterns / Docker模式 / Dockerpatterns / Docker模式 / Dockerpatterns / Docker模式
 description: Docker and Docker Compose patterns for local development, container security, networking, volume strategies, and multi-service orchestration.
 origin: ECC
 ---

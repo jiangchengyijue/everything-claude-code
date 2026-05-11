@@ -1,5 +1,5 @@
 ---
-name: java-coding-standards
+name: java-coding-standards / Java编码规范 / Java编码standards / Java编码规范 / Java编码standards / Java编码规范 / Java编码standards / Java编码规范
 description: "Java coding standards for Spring Boot services: naming, immutability, Optional usage, streams, exceptions, generics, and project layout."
 origin: ECC
 ---

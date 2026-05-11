@@ -1,5 +1,5 @@
 ---
-name: healthcare-emr-patterns
+name: healthcare-emr-patterns / 医疗电子病历模式 / 医疗电子病历patterns / 医疗电子病历模式 / 医疗电子病历patterns / 医疗电子病历模式 / 医疗电子病历patterns / 医疗电子病历模式
 description: EMR/EHR development patterns for healthcare applications. Clinical safety, encounter workflows, prescription generation, clinical decision support integration, and accessibility-first UI for medical data entry.
 origin: Health1 Super Speciality Hospitals — contributed by Dr. Keyur Patel
 version: "1.0.0"

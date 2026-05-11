@@ -1,5 +1,5 @@
 ---
-name: agent-introspection-debugging
+name: agent-introspection-debugging / 代理introspection调试 / 代理introspectiondebugging / 代理introspection调试 / 代理introspectiondebugging / 代理introspection调试 / 代理introspectiondebugging / 代理introspection调试
 description: Structured self-debugging workflow for AI agent failures using capture, diagnosis, contained recovery, and introspection reports.
 origin: ECC
 ---

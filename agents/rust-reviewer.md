@@ -1,5 +1,5 @@
 ---
-name: rust-reviewer
+name: rust-reviewer / Rust审查器 / Rustreviewer / Rust审查器 / Rustreviewer / Rust审查器 / Rustreviewer / Rust审查器
 description: Expert Rust code reviewer specializing in ownership, lifetimes, error handling, unsafe usage, and idiomatic patterns. Use for all Rust code changes. MUST BE USED for Rust projects.
 tools: ["Read", "Grep", "Glob", "Bash"]
 model: sonnet

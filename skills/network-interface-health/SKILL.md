@@ -1,5 +1,5 @@
 ---
-name: network-interface-health
+name: network-interface-health / 网络interface健康检查 / 网络interfacehealth / 网络interface健康检查 / 网络interfacehealth / 网络interface健康检查 / 网络interfacehealth / 网络interface健康检查
 description: Diagnose interface errors, drops, CRCs, duplex mismatches, flapping, speed negotiation issues, and counter trends on routers, switches, and Linux hosts.
 origin: community
 ---

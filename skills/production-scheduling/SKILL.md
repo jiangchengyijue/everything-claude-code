@@ -1,5 +1,5 @@
 ---
-name: production-scheduling
+name: production-scheduling / 生产排程 / 生产scheduling / 生产排程 / 生产scheduling / 生产排程 / 生产scheduling / 生产排程
 description: >
   Codified expertise for production scheduling, job sequencing, line balancing,
   changeover optimization, and bottleneck resolution in discrete and batch

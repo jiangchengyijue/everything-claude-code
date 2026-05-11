@@ -1,5 +1,5 @@
 ---
-name: perl-testing
+name: perl-testing / Perl测试 / Perltesting / Perl测试 / Perltesting / Perl测试 / Perltesting / Perl测试
 description: Perl testing patterns using Test2::V0, Test::More, prove runner, mocking, coverage with Devel::Cover, and TDD methodology.
 origin: ECC
 ---

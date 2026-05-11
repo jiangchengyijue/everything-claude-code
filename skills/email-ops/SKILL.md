@@ -1,5 +1,5 @@
 ---
-name: email-ops
+name: email-ops / 邮件运维 / 邮件ops / 邮件运维 / 邮件ops / 邮件运维 / 邮件ops / 邮件运维
 description: Evidence-first mailbox triage, drafting, send verification, and sent-mail-safe follow-up workflow for ECC. Use when the user wants to organize email, draft or send through the real mail surface, or prove what landed in Sent.
 origin: ECC
 ---

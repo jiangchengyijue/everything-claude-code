@@ -1,5 +1,5 @@
 ---
-name: canary-watch
+name: canary-watch / 金丝雀监控 / 金丝雀watch / 金丝雀监控 / 金丝雀watch / 金丝雀监控 / 金丝雀watch / 金丝雀监控
 description: Use this skill to monitor a deployed URL for regressions after deploys, merges, or dependency upgrades.
 origin: ECC
 ---

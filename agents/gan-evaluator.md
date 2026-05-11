@@ -1,5 +1,5 @@
 ---
-name: gan-evaluator
+name: gan-evaluator / GAN评估器 / GANevaluator / GAN评估器 / GANevaluator / GAN评估器 / GANevaluator / GAN评估器
 description: "GAN Harness — Evaluator agent. Tests the live running application via Playwright, scores against rubric, and provides actionable feedback to the Generator."
 tools: ["Read", "Write", "Bash", "Grep", "Glob"]
 model: opus

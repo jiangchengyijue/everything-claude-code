@@ -1,5 +1,5 @@
 ---
-name: mysql-patterns
+name: mysql-patterns / mysql模式 / mysqlpatterns / mysql模式 / mysqlpatterns / mysql模式 / mysqlpatterns / mysql模式
 description: MySQL and MariaDB schema, query, indexing, transaction, replication, and connection-pool patterns for production backends.
 origin: ECC
 ---

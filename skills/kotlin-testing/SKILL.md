@@ -1,5 +1,5 @@
 ---
-name: kotlin-testing
+name: kotlin-testing / Kotlin测试 / Kotlintesting / Kotlin测试 / Kotlintesting / Kotlin测试 / Kotlintesting / Kotlin测试
 description: Kotlin testing patterns with Kotest, MockK, coroutine testing, property-based testing, and Kover coverage. Follows TDD methodology with idiomatic Kotlin practices.
 origin: ECC
 ---

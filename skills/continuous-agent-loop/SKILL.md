@@ -1,5 +1,5 @@
 ---
-name: continuous-agent-loop
+name: continuous-agent-loop / 持续代理循环 / 持续代理loop / 持续代理循环 / 持续代理loop / 持续代理循环 / 持续代理loop / 持续代理循环
 description: Patterns for continuous autonomous agent loops with quality gates, evals, and recovery controls.
 origin: ECC
 ---

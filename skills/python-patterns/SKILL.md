@@ -1,5 +1,5 @@
 ---
-name: python-patterns
+name: python-patterns / Python模式 / Pythonpatterns / Python模式 / Pythonpatterns / Python模式 / Pythonpatterns / Python模式
 description: Pythonic idioms, PEP 8 standards, type hints, and best practices for building robust, efficient, and maintainable Python applications.
 origin: ECC
 ---

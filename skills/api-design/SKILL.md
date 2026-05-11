@@ -1,5 +1,5 @@
 ---
-name: api-design
+name: api-design / API设计 / APIdesign / API设计 / APIdesign / API设计 / APIdesign / API设计
 description: REST API design patterns including resource naming, status codes, pagination, filtering, error responses, versioning, and rate limiting for production APIs.
 origin: ECC
 ---

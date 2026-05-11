@@ -1,5 +1,5 @@
 ---
-name: django-verification
+name: django-verification / Django验证 / Djangoverification / Django验证 / Djangoverification / Django验证 / Djangoverification / Django验证
 description: "Verification loop for Django projects: migrations, linting, tests with coverage, security scans, and deployment readiness checks before release or PR."
 origin: ECC
 ---

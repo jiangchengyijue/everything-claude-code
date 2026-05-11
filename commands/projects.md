@@ -1,5 +1,5 @@
 ---
-name: projects
+name: projects / PRojects / PRojects / PRojects
 description: List known projects and their instinct statistics
 command: true
 ---

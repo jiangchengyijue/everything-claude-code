@@ -1,5 +1,5 @@
 ---
-name: hexagonal-architecture
+name: hexagonal-architecture / 六边形架构 / 六边形architecture / 六边形架构 / 六边形architecture / 六边形架构 / 六边形architecture / 六边形架构
 description: Design, implement, and refactor Ports & Adapters systems with clear domain boundaries, dependency inversion, and testable use-case orchestration across TypeScript, Java, Kotlin, and Go services.
 origin: ECC
 ---

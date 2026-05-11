@@ -1,5 +1,5 @@
 ---
-name: content-engine
+name: content-engine / 内容引擎 / 内容engine / 内容引擎 / 内容engine / 内容引擎 / 内容engine / 内容引擎
 description: Create platform-native content systems for X, LinkedIn, TikTok, YouTube, newsletters, and repurposed multi-platform campaigns. Use when the user wants social posts, threads, scripts, content calendars, or one source asset adapted cleanly across platforms.
 origin: ECC
 ---

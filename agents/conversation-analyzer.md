@@ -1,5 +1,5 @@
 ---
-name: conversation-analyzer
+name: conversation-analyzer / 对话分析器
 description: Use this agent when analyzing conversation transcripts to find behaviors worth preventing with hooks. Triggered by /hookify without arguments.
 model: sonnet
 tools: [Read, Grep]

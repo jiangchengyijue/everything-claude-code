@@ -1,5 +1,5 @@
 ---
-name: flutter-reviewer
+name: flutter-reviewer / Flutter审查器 / Flutterreviewer / Flutter审查器 / Flutterreviewer / Flutter审查器 / Flutterreviewer / Flutter审查器
 description: Flutter and Dart code reviewer. Reviews Flutter code for widget best practices, state management patterns, Dart idioms, performance pitfalls, accessibility, and clean architecture violations. Library-agnostic — works with any state management solution and tooling.
 tools: ["Read", "Grep", "Glob", "Bash"]
 model: sonnet

@@ -1,5 +1,5 @@
 ---
-name: django-tdd
+name: django-tdd / DjangoTDD / Djangotdd / DjangoTDD / Djangotdd / DjangoTDD / Djangotdd / DjangoTDD
 description: Django testing strategies with pytest-django, TDD methodology, factory_boy, mocking, coverage, and testing Django REST Framework APIs.
 origin: ECC
 ---

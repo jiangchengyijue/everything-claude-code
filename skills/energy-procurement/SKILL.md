@@ -1,5 +1,5 @@
 ---
-name: energy-procurement
+name: energy-procurement / 能源采购 / 能源procurement / 能源采购 / 能源procurement / 能源采购 / 能源procurement / 能源采购
 description: >
   Codified expertise for electricity and gas procurement, tariff optimization,
   demand charge management, renewable PPA evaluation, and multi-facility energy

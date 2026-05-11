@@ -1,5 +1,5 @@
 ---
-name: verification-loop
+name: verification-loop / 验证循环 / 验证loop / 验证循环 / 验证loop / 验证循环 / 验证loop / 验证循环
 description: "A comprehensive verification system for Claude Code sessions."
 origin: ECC
 ---

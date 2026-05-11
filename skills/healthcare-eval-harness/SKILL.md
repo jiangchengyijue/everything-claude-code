@@ -1,5 +1,5 @@
 ---
-name: healthcare-eval-harness
+name: healthcare-eval-harness / 医疗评估框架 / 医疗评估harness / 医疗评估框架 / 医疗评估harness / 医疗评估框架 / 医疗评估harness / 医疗评估框架
 description: Patient safety evaluation harness for healthcare application deployments. Automated test suites for CDSS accuracy, PHI exposure, clinical workflow integrity, and integration compliance. Blocks deployments on safety failures.
 origin: Health1 Super Speciality Hospitals — contributed by Dr. Keyur Patel
 version: "1.0.0"

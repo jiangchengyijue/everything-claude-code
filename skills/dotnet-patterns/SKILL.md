@@ -1,5 +1,5 @@
 ---
-name: dotnet-patterns
+name: dotnet-patterns / .NET模式 / .NETpatterns / .NET模式 / .NETpatterns / .NET模式 / .NETpatterns / .NET模式
 description: Idiomatic C# and .NET patterns, conventions, dependency injection, async/await, and best practices for building robust, maintainable .NET applications.
 origin: ECC
 ---

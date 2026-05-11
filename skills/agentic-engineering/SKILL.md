@@ -1,5 +1,5 @@
 ---
-name: agentic-engineering
+name: agentic-engineering / agentic工程 / agenticengineering / agentic工程 / agenticengineering / agentic工程 / agenticengineering / agentic工程
 description: Operate as an agentic engineer using eval-first execution, decomposition, and cost-aware model routing.
 origin: ECC
 ---

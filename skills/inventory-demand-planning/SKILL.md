@@ -1,5 +1,5 @@
 ---
-name: inventory-demand-planning
+name: inventory-demand-planning / 库存demand规划 / 库存demandplanning / 库存demand规划 / 库存demandplanning / 库存demand规划 / 库存demandplanning / 库存demand规划
 description: >
   Codified expertise for demand forecasting, safety stock optimization,
   replenishment planning, and promotional lift estimation at multi-location

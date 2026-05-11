@@ -1,5 +1,5 @@
 ---
-name: laravel-plugin-discovery
+name: laravel-plugin-discovery / Laravel插件discovery / Laravel插件discovery / Laravel插件discovery / Laravel插件discovery / Laravel插件discovery / Laravel插件discovery / Laravel插件discovery
 description: Discover and evaluate Laravel packages via LaraPlugins.io MCP. Use when the user wants to find plugins, check package health, or assess Laravel/PHP compatibility.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: java-reviewer
+name: java-reviewer / Java审查器 / Javareviewer / Java审查器 / Javareviewer / Java审查器 / Javareviewer / Java审查器
 description: Expert Java and Spring Boot code reviewer specializing in layered architecture, JPA patterns, security, and concurrency. Use for all Java code changes. MUST BE USED for Spring Boot projects.
 tools: ["Read", "Grep", "Glob", "Bash"]
 model: sonnet

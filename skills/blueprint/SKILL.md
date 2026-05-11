@@ -1,5 +1,5 @@
 ---
-name: blueprint
+name: blueprint / 蓝图 / 蓝图 / 蓝图 / 蓝图 / 蓝图 / 蓝图 / 蓝图
 description: >-
   Turn a one-line objective into a step-by-step construction plan for
   multi-session, multi-agent engineering projects. Each step has a

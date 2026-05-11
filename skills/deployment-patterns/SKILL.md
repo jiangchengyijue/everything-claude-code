@@ -1,5 +1,5 @@
 ---
-name: deployment-patterns
+name: deployment-patterns / 部署模式 / 部署patterns / 部署模式 / 部署patterns / 部署模式 / 部署patterns / 部署模式
 description: Deployment workflows, CI/CD pipeline patterns, Docker containerization, health checks, rollback strategies, and production readiness checklists for web applications.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: claude-devfleet
+name: claude-devfleet / claudeDevFleet编排 / claudedevfleet / claudeDevFleet编排 / claudedevfleet / claudeDevFleet编排 / claudedevfleet / claudeDevFleet编排
 description: Orchestrate multi-agent coding tasks via Claude DevFleet — plan projects, dispatch parallel agents in isolated worktrees, monitor progress, and read structured reports.
 origin: community
 ---

@@ -1,5 +1,5 @@
 ---
-name: e2e-testing
+name: e2e-testing / E2E测试测试 / E2E测试testing / E2E测试测试 / E2E测试testing / E2E测试测试 / E2E测试testing / E2E测试测试
 description: Playwright E2E testing patterns, Page Object Model, configuration, CI/CD integration, artifact management, and flaky test strategies.
 origin: ECC
 ---

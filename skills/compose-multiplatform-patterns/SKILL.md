@@ -1,5 +1,5 @@
 ---
-name: compose-multiplatform-patterns
+name: compose-multiplatform-patterns / Compose跨平台模式 / Compose跨平台patterns / Compose跨平台模式 / Compose跨平台patterns / Compose跨平台模式 / Compose跨平台patterns / Compose跨平台模式
 description: Compose Multiplatform and Jetpack Compose patterns for KMP projects — state management, navigation, theming, performance, and platform-specific UI.
 origin: ECC
 ---

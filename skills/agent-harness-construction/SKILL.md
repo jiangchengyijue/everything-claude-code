@@ -1,5 +1,5 @@
 ---
-name: agent-harness-construction
+name: agent-harness-construction / 代理框架construction / 代理框架construction / 代理框架construction / 代理框架construction / 代理框架construction / 代理框架construction / 代理框架construction
 description: Design and optimize AI agent action spaces, tool definitions, and observation formatting for higher completion rates.
 origin: ECC
 ---

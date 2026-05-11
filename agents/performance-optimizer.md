@@ -1,5 +1,5 @@
 ---
-name: performance-optimizer
+name: performance-optimizer / 性能优化器 / 性能optimizer / 性能优化器 / 性能optimizer / 性能优化器 / 性能optimizer / 性能优化器
 description: Performance analysis and optimization specialist. Use PROACTIVELY for identifying bottlenecks, optimizing slow code, reducing bundle sizes, and improving runtime performance. Profiling, memory leaks, render optimization, and algorithmic improvements.
 tools: ["Read", "Write", "Edit", "Bash", "Grep", "Glob"]
 model: sonnet

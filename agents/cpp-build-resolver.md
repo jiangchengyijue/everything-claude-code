@@ -1,5 +1,5 @@
 ---
-name: cpp-build-resolver
+name: cpp-build-resolver / C++build解析器 / C++buildresolver / C++build解析器 / C++buildresolver / C++build解析器 / C++buildresolver / C++build解析器
 description: C++ build, CMake, and compilation error resolution specialist. Fixes build errors, linker issues, and template errors with minimal changes. Use when C++ builds fail.
 tools: ["Read", "Write", "Edit", "Bash", "Grep", "Glob"]
 model: sonnet

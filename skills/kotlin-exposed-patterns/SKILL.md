@@ -1,5 +1,5 @@
 ---
-name: kotlin-exposed-patterns
+name: kotlin-exposed-patterns / KotlinExposed模式 / KotlinExposedpatterns / KotlinExposed模式 / KotlinExposedpatterns / KotlinExposed模式 / KotlinExposedpatterns / KotlinExposed模式
 description: JetBrains Exposed ORM patterns including DSL queries, DAO pattern, transactions, HikariCP connection pooling, Flyway migrations, and repository pattern.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: finance-billing-ops
+name: finance-billing-ops / 财务计费运维 / 财务计费ops / 财务计费运维 / 财务计费ops / 财务计费运维 / 财务计费ops / 财务计费运维
 description: Evidence-first revenue, pricing, refunds, team-billing, and billing-model truth workflow for ECC. Use when the user wants a sales snapshot, pricing comparison, duplicate-charge diagnosis, or code-backed billing reality instead of generic payments advice.
 origin: ECC
 ---

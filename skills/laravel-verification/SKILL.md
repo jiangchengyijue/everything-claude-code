@@ -1,5 +1,5 @@
 ---
-name: laravel-verification
+name: laravel-verification / Laravel验证 / Laravelverification / Laravel验证 / Laravelverification / Laravel验证 / Laravelverification / Laravel验证
 description: "Verification loop for Laravel projects: env checks, linting, static analysis, tests with coverage, security scans, and deployment readiness."
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: security-bounty-hunter
+name: security-bounty-hunter / 安全bountyhunter / 安全bountyhunter / 安全bountyhunter / 安全bountyhunter / 安全bountyhunter / 安全bountyhunter / 安全bountyhunter
 description: Hunt for exploitable, bounty-worthy security issues in repositories. Focuses on remotely reachable vulnerabilities that qualify for real reports instead of noisy local-only findings.
 origin: ECC direct-port adaptation
 version: "1.0.0"

@@ -1,5 +1,5 @@
 ---
-name: backend-patterns
+name: backend-patterns / 后端模式 / 后端patterns / 后端模式 / 后端patterns / 后端模式 / 后端patterns / 后端模式
 description: Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: laravel-tdd
+name: laravel-tdd / LaravelTDD / Laraveltdd / LaravelTDD / Laraveltdd / LaravelTDD / Laraveltdd / LaravelTDD
 description: Test-driven development for Laravel with PHPUnit and Pest, factories, database testing, fakes, and coverage targets.
 origin: ECC
 ---

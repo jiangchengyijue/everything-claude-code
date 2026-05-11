@@ -1,5 +1,5 @@
 ---
-name: jpa-patterns
+name: jpa-patterns / JPA模式 / JPApatterns / JPA模式 / JPApatterns / JPA模式 / JPApatterns / JPA模式
 description: JPA/Hibernate patterns for entity design, relationships, query optimization, transactions, auditing, indexing, pagination, and pooling in Spring Boot.
 origin: ECC
 ---

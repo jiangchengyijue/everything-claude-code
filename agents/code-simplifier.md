@@ -1,5 +1,5 @@
 ---
-name: code-simplifier
+name: code-simplifier / 代码简化器 / 代码simplifier / 代码简化器 / 代码simplifier / 代码简化器 / 代码simplifier / 代码简化器
 description: Simplifies and refines code for clarity, consistency, and maintainability while preserving behavior. Focus on recently modified code unless instructed otherwise.
 model: sonnet
 tools: [Read, Write, Edit, Bash, Grep, Glob]

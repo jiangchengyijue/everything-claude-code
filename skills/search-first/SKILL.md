@@ -1,5 +1,5 @@
 ---
-name: search-first
+name: search-first / 搜索优先 / 搜索first / 搜索优先 / 搜索first / 搜索优先 / 搜索first / 搜索优先
 description: Research-before-coding workflow. Search for existing tools, libraries, and patterns before writing custom code. Invokes the researcher agent.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: pubmed-database
+name: pubmed-database / pubmed数据库 / pubmeddatabase / pubmed数据库 / pubmeddatabase / pubmed数据库 / pubmeddatabase / pubmed数据库
 description: Direct PubMed and NCBI E-utilities search workflows for biomedical literature, MeSH queries, PMID lookup, citation retrieval, and API-backed literature monitoring.
 origin: community
 ---

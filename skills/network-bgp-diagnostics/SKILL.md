@@ -1,5 +1,5 @@
 ---
-name: network-bgp-diagnostics
+name: network-bgp-diagnostics / 网络bgpdiagnostics / 网络bgpdiagnostics / 网络bgpdiagnostics / 网络bgpdiagnostics / 网络bgpdiagnostics / 网络bgpdiagnostics / 网络bgpdiagnostics
 description: Diagnostics-only BGP troubleshooting patterns for neighbor state, route exchange, prefix policy, AS path inspection, and safe evidence collection.
 origin: community
 ---

@@ -1,5 +1,5 @@
 ---
-name: cpp-testing
+name: cpp-testing / C++测试 / C++testing / C++测试 / C++testing / C++测试 / C++testing / C++测试
 description: Use only when writing/updating/fixing C++ tests, configuring GoogleTest/CTest, diagnosing failing or flaky tests, or adding coverage/sanitizers.
 origin: ECC
 ---

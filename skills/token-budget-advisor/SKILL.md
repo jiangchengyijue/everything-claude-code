@@ -1,5 +1,5 @@
 ---
-name: token-budget-advisor
+name: token-budget-advisor / Tokenbudgetadvisor / Tokenbudgetadvisor / Tokenbudgetadvisor / Tokenbudgetadvisor / Tokenbudgetadvisor / Tokenbudgetadvisor / Tokenbudgetadvisor
 description: >-
   Offers the user an informed choice about how much response depth to
   consume before answering. Use this skill when the user explicitly

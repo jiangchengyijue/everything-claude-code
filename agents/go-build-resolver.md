@@ -1,5 +1,5 @@
 ---
-name: go-build-resolver
+name: go-build-resolver / gobuild解析器 / gobuildresolver / gobuild解析器 / gobuildresolver / gobuild解析器 / gobuildresolver / gobuild解析器
 description: Go build, vet, and compilation error resolution specialist. Fixes build errors, go vet issues, and linter warnings with minimal changes. Use when Go builds fail.
 tools: ["Read", "Write", "Edit", "Bash", "Grep", "Glob"]
 model: sonnet
