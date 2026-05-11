@@ -1,5 +1,5 @@
 ---
-name: skill-stocktake / 技能盘点 / 技能stocktake / 技能盘点 / 技能stocktake / 技能盘点 / 技能stocktake / 技能盘点
+name: skill-stocktake / 技能盘点
 description: "Use when auditing Claude skills and commands for quality. Supports Quick Scan (changed skills only) and Full Stocktake modes with sequential subagent batch evaluation."
 origin: ECC
 ---

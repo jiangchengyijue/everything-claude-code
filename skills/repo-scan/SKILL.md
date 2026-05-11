@@ -1,5 +1,5 @@
 ---
-name: repo-scan / 仓库scan / 仓库scan / 仓库scan / 仓库scan / 仓库scan / 仓库scan / 仓库scan
+name: repo-scan / 仓库scan
 description: Cross-stack source code asset audit — classifies every file, detects embedded third-party libraries, and delivers actionable four-level verdicts per module with interactive HTML reports.
 origin: community
 ---

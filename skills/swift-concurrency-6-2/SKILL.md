@@ -1,5 +1,5 @@
 ---
-name: swift-concurrency-6-2 / Swiftconcurrency62 / Swiftconcurrency62 / Swiftconcurrency62 / Swiftconcurrency62 / Swiftconcurrency62 / Swiftconcurrency62 / Swiftconcurrency62
+name: swift-concurrency-6-2 / Swiftconcurrency62
 description: Swift 6.2 Approachable Concurrency — single-threaded by default, @concurrent for explicit background offloading, isolated conformances for main actor types.
 ---
 

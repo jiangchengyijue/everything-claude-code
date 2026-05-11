@@ -1,5 +1,5 @@
 ---
-name: prompt-optimizer / 提示词优化器 / 提示词optimizer / 提示词优化器 / 提示词optimizer / 提示词优化器 / 提示词optimizer / 提示词优化器
+name: prompt-optimizer / 提示词优化器
 description: >-
   Analyze raw prompts, identify intent and gaps, match ECC components
   (skills/commands/agents/hooks), and output a ready-to-paste optimized

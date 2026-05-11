@@ -1,5 +1,5 @@
 ---
-name: homelab-network-setup / 家庭实验室网络设置 / 家庭实验室网络setup / 家庭实验室网络设置 / 家庭实验室网络setup / 家庭实验室网络设置 / 家庭实验室网络setup / 家庭实验室网络设置
+name: homelab-network-setup / 家庭实验室网络设置
 description: Practical home and homelab network planning for gateways, switches, access points, IP ranges, DHCP reservations, DNS, cabling, and common beginner mistakes.
 origin: community
 ---

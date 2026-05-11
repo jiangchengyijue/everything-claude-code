@@ -1,5 +1,5 @@
 ---
-name: frontend-patterns / 前端模式 / 前端patterns / 前端模式 / 前端patterns / 前端模式 / 前端patterns / 前端模式
+name: frontend-patterns / 前端模式
 description: Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices.
 origin: ECC
 ---

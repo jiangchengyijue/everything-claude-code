@@ -1,5 +1,5 @@
 ---
-name: git-workflow / git工作流 / gitworkflow / git工作流 / gitworkflow / git工作流 / gitworkflow / git工作流
+name: git-workflow / git工作流
 description: Git workflow patterns including branching strategies, commit conventions, merge vs rebase, conflict resolution, and collaborative development best practices for teams of all sizes.
 origin: ECC
 ---

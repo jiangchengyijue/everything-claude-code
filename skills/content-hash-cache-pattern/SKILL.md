@@ -1,5 +1,5 @@
 ---
-name: content-hash-cache-pattern / 内容哈希缓存模式 / 内容哈希缓存pattern / 内容哈希缓存模式 / 内容哈希缓存pattern / 内容哈希缓存模式 / 内容哈希缓存pattern / 内容哈希缓存模式
+name: content-hash-cache-pattern / 内容哈希缓存模式
 description: Cache expensive file processing results using SHA-256 content hashes — path-independent, auto-invalidating, with service layer separation.
 origin: ECC
 ---

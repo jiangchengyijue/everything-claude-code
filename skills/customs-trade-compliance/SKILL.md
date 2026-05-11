@@ -1,5 +1,5 @@
 ---
-name: customs-trade-compliance / 海关贸易合规 / 海关贸易compliance / 海关贸易合规 / 海关贸易compliance / 海关贸易合规 / 海关贸易compliance / 海关贸易合规
+name: customs-trade-compliance / 海关贸易合规
 description: >
   Codified expertise for customs documentation, tariff classification, duty
   optimization, restricted party screening, and regulatory compliance across

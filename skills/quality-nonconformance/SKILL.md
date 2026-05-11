@@ -1,5 +1,5 @@
 ---
-name: quality-nonconformance / 质量nonconformance / 质量nonconformance / 质量nonconformance / 质量nonconformance / 质量nonconformance / 质量nonconformance / 质量nonconformance
+name: quality-nonconformance / 质量nonconformance
 description: >
   Codified expertise for quality control, non-conformance investigation, root
   cause analysis, corrective action, and supplier quality management in

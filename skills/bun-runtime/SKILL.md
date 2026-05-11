@@ -1,5 +1,5 @@
 ---
-name: bun-runtime / Bun运行时 / Bunruntime / Bun运行时 / Bunruntime / Bun运行时 / Bunruntime / Bun运行时
+name: bun-runtime / Bun运行时
 description: Bun as runtime, package manager, bundler, and test runner. When to choose Bun vs Node, migration notes, and Vercel support.
 origin: ECC
 ---

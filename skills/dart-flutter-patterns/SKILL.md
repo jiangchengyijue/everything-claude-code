@@ -1,5 +1,5 @@
 ---
-name: dart-flutter-patterns / DartFlutter模式 / DartFlutterpatterns / DartFlutter模式 / DartFlutterpatterns / DartFlutter模式 / DartFlutterpatterns / DartFlutter模式
+name: dart-flutter-patterns / DartFlutter模式
 description: Production-ready Dart and Flutter patterns covering null safety, immutable state, async composition, widget architecture, popular state management frameworks (BLoC, Riverpod, Provider), GoRouter navigation, Dio networking, Freezed code generation, and clean architecture.
 origin: ECC
 ---

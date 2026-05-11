@@ -1,5 +1,5 @@
 ---
-name: rust-patterns / Rust模式 / Rustpatterns / Rust模式 / Rustpatterns / Rust模式 / Rustpatterns / Rust模式
+name: rust-patterns / Rust模式
 description: Idiomatic Rust patterns, ownership, error handling, traits, concurrency, and best practices for building safe, performant applications.
 origin: ECC
 ---

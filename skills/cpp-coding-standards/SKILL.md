@@ -1,5 +1,5 @@
 ---
-name: cpp-coding-standards / C++编码规范 / C++编码standards / C++编码规范 / C++编码standards / C++编码规范 / C++编码standards / C++编码规范
+name: cpp-coding-standards / C++编码规范
 description: C++ coding standards based on the C++ Core Guidelines (isocpp.github.io). Use when writing, reviewing, or refactoring C++ code to enforce modern, safe, and idiomatic practices.
 origin: ECC
 ---

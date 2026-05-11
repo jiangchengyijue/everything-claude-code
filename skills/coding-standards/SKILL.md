@@ -1,5 +1,5 @@
 ---
-name: coding-standards / 编码规范 / 编码standards / 编码规范 / 编码standards / 编码规范 / 编码standards / 编码规范
+name: coding-standards / 编码规范
 description: Baseline cross-project coding conventions for naming, readability, immutability, and code-quality review. Use detailed frontend or backend skills for framework-specific patterns.
 origin: ECC
 ---

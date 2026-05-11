@@ -1,5 +1,5 @@
 ---
-name: plankton-code-quality / Plankton代码质量 / Plankton代码quality / Plankton代码质量 / Plankton代码quality / Plankton代码质量 / Plankton代码quality / Plankton代码质量
+name: plankton-code-quality / Plankton代码质量
 description: "Write-time code quality enforcement using Plankton — auto-formatting, linting, and Claude-powered fixes on every file edit via hooks."
 origin: community
 ---

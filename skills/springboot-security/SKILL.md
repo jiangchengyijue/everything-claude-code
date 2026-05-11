@@ -1,5 +1,5 @@
 ---
-name: springboot-security / Spring Boot安全 / Spring Bootsecurity / Spring Boot安全 / Spring Bootsecurity / Spring Boot安全 / Spring Bootsecurity / Spring Boot安全
+name: springboot-security / Spring Boot安全
 description: Spring Security best practices for authn/authz, validation, CSRF, secrets, headers, rate limiting, and dependency security in Java Spring Boot services.
 origin: ECC
 ---

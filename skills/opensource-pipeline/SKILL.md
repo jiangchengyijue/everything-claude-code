@@ -1,5 +1,5 @@
 ---
-name: opensource-pipeline / 开源管道 / 开源pipeline / 开源管道 / 开源pipeline / 开源管道 / 开源pipeline / 开源管道
+name: opensource-pipeline / 开源管道
 description: "Open-source pipeline: fork, sanitize, and package private projects for safe public release. Chains 3 agents (forker, sanitizer, packager). Triggers: '/opensource', 'open source this', 'make this public', 'prepare for open source'."
 origin: ECC
 ---

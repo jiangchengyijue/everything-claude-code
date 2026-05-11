@@ -1,5 +1,5 @@
 ---
-name: django-security / Django安全 / Djangosecurity / Django安全 / Djangosecurity / Django安全 / Djangosecurity / Django安全
+name: django-security / Django安全
 description: Django security best practices, authentication, authorization, CSRF protection, SQL injection prevention, XSS prevention, and secure deployment configurations.
 origin: ECC
 ---

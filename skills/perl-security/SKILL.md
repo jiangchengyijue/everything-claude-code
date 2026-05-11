@@ -1,5 +1,5 @@
 ---
-name: perl-security / Perl安全 / Perlsecurity / Perl安全 / Perlsecurity / Perl安全 / Perlsecurity / Perl安全
+name: perl-security / Perl安全
 description: Comprehensive Perl security covering taint mode, input validation, safe process execution, DBI parameterized queries, web security (XSS/SQLi/CSRF), and perlcritic security policies.
 origin: ECC
 ---

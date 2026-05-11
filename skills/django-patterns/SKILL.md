@@ -1,5 +1,5 @@
 ---
-name: django-patterns / Django模式 / Djangopatterns / Django模式 / Djangopatterns / Django模式 / Djangopatterns / Django模式
+name: django-patterns / Django模式
 description: Django architecture patterns, REST API design with DRF, ORM best practices, caching, signals, middleware, and production-grade Django apps.
 origin: ECC
 ---

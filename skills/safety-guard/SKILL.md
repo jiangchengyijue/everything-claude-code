@@ -1,5 +1,5 @@
 ---
-name: safety-guard / 安全守卫 / 安全guard / 安全守卫 / 安全guard / 安全守卫 / 安全guard / 安全守卫
+name: safety-guard / 安全守卫
 description: Use this skill to prevent destructive operations when working on production systems or running agents autonomously.
 origin: ECC
 ---

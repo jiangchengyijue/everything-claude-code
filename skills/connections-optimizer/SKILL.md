@@ -1,5 +1,5 @@
 ---
-name: connections-optimizer / 社交关系优化器 / 社交关系optimizer / 社交关系优化器 / 社交关系optimizer / 社交关系优化器 / 社交关系optimizer / 社交关系优化器
+name: connections-optimizer / 社交关系优化器
 description: Reorganize the user's X and LinkedIn network with review-first pruning, add/follow recommendations, and channel-specific warm outreach drafted in the user's real voice. Use when the user wants to clean up following lists, grow toward current priorities, or rebalance a social graph around higher-signal relationships.
 origin: ECC
 ---

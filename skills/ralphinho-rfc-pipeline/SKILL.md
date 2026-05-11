@@ -1,5 +1,5 @@
 ---
-name: ralphinho-rfc-pipeline / RalphinhoRFC管道 / RalphinhoRFCpipeline / RalphinhoRFC管道 / RalphinhoRFCpipeline / RalphinhoRFC管道 / RalphinhoRFCpipeline / RalphinhoRFC管道
+name: ralphinho-rfc-pipeline / RalphinhoRFC管道
 description: RFC-driven multi-agent DAG execution pattern with quality gates, merge queues, and work unit orchestration.
 origin: ECC
 ---

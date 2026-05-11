@@ -1,5 +1,5 @@
 ---
-name: skill-health / 技能健康检查 / 技能health / 技能健康检查 / 技能health / 技能健康检查 / 技能health / 技能健康检查
+name: skill-health / 技能健康检查
 description: Show skill portfolio health dashboard with charts and analytics
 command: true
 ---

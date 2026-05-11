@@ -1,5 +1,5 @@
 ---
-name: swift-build-resolver / Swiftbuild解析器 / Swiftbuildresolver / Swiftbuild解析器 / Swiftbuildresolver / Swiftbuild解析器 / Swiftbuildresolver / Swiftbuild解析器
+name: swift-build-resolver / Swiftbuild解析器
 description: Swift/Xcode build, compilation, and dependency error resolution specialist. Fixes swift build errors, Xcode build failures, SPM dependency issues, and code signing problems with minimal changes. Use when Swift builds fail.
 tools: ["Read", "Write", "Edit", "Bash", "Grep", "Glob"]
 model: sonnet

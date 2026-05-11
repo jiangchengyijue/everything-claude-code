@@ -1,5 +1,5 @@
 ---
-name: hookify-rules / Hook配置规则 / Hook配置rules / Hook配置规则 / Hook配置rules / Hook配置规则 / Hook配置rules / Hook配置规则
+name: hookify-rules / Hook配置规则
 description: This skill should be used when the user asks to create a hookify rule, write a hook rule, configure hookify, add a hookify rule, or needs guidance on hookify rule syntax and patterns.
 ---
 

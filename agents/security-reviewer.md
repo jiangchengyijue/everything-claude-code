@@ -1,5 +1,5 @@
 ---
-name: security-reviewer / 安全审查器 / 安全reviewer / 安全审查器 / 安全reviewer / 安全审查器 / 安全reviewer / 安全审查器
+name: security-reviewer / 安全审查器
 description: Security vulnerability detection and remediation specialist. Use PROACTIVELY after writing code that handles user input, authentication, API endpoints, or sensitive data. Flags secrets, SSRF, injection, unsafe crypto, and OWASP Top 10 vulnerabilities.
 tools: ["Read", "Write", "Edit", "Bash", "Grep", "Glob"]
 model: sonnet

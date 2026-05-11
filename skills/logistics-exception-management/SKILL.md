@@ -1,5 +1,5 @@
 ---
-name: logistics-exception-management / 物流异常处理管理 / 物流异常处理management / 物流异常处理管理 / 物流异常处理management / 物流异常处理管理 / 物流异常处理management / 物流异常处理管理
+name: logistics-exception-management / 物流异常处理管理
 description: >
   Codified expertise for handling freight exceptions, shipment delays,
   damages, losses, and carrier disputes. Informed by logistics professionals

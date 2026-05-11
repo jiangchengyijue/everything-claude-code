@@ -1,5 +1,5 @@
 ---
-name: springboot-verification / Spring Boot验证 / Spring Bootverification / Spring Boot验证 / Spring Bootverification / Spring Boot验证 / Spring Bootverification / Spring Boot验证
+name: springboot-verification / Spring Boot验证
 description: "Verification loop for Spring Boot projects: build, static analysis, tests with coverage, security scans, and diff review before release or PR."
 origin: ECC
 ---

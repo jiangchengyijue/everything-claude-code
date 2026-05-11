@@ -1,5 +1,5 @@
 ---
-name: browser-qa / 浏览器QA测试 / 浏览器qa / 浏览器QA测试 / 浏览器qa / 浏览器QA测试 / 浏览器qa / 浏览器QA测试
+name: browser-qa / 浏览器QA测试
 description: Use this skill to automate visual testing and UI interaction verification using browser automation after deploying features.
 origin: ECC
 ---

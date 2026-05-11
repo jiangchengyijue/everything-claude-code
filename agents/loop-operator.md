@@ -1,5 +1,5 @@
 ---
-name: loop-operator / 循环operator / 循环operator / 循环operator / 循环operator / 循环operator / 循环operator / 循环operator
+name: loop-operator / 循环operator
 description: Operate autonomous agent loops, monitor progress, and intervene safely when loops stall.
 tools: ["Read", "Grep", "Glob", "Bash", "Edit"]
 model: sonnet

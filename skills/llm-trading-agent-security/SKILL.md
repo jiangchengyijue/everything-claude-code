@@ -1,5 +1,5 @@
 ---
-name: llm-trading-agent-security / LLM交易代理安全 / LLM交易代理security / LLM交易代理安全 / LLM交易代理security / LLM交易代理安全 / LLM交易代理security / LLM交易代理安全
+name: llm-trading-agent-security / LLM交易代理安全
 description: Security patterns for autonomous trading agents with wallet or transaction authority. Covers prompt injection, spend limits, pre-send simulation, circuit breakers, MEV protection, and key handling.
 origin: ECC direct-port adaptation
 version: "1.0.0"

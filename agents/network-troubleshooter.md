@@ -1,5 +1,5 @@
 ---
-name: network-troubleshooter / 网络故障排查 / 网络troubleshooter / 网络故障排查 / 网络troubleshooter / 网络故障排查 / 网络troubleshooter / 网络故障排查
+name: network-troubleshooter / 网络故障排查
 description: Diagnoses network connectivity, routing, DNS, interface, and policy symptoms with a read-only OSI-layer workflow and evidence-backed root cause summary.
 tools: ["Read", "Bash", "Grep"]
 model: sonnet

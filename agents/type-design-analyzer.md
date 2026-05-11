@@ -1,5 +1,5 @@
 ---
-name: type-design-analyzer / 类型设计analyzer / 类型设计analyzer / 类型设计analyzer / 类型设计analyzer / 类型设计analyzer / 类型设计analyzer / 类型设计analyzer
+name: type-design-analyzer / 类型设计分析器
 description: Analyze type design for encapsulation, invariant expression, usefulness, and enforcement.
 model: sonnet
 tools: [Read, Grep, Glob, Bash]

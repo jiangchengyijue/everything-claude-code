@@ -1,5 +1,5 @@
 ---
-name: pr-test-analyzer / PR测试analyzer / PR测试analyzer / PR测试analyzer / PR测试analyzer / PR测试analyzer / PR测试analyzer / PR测试analyzer
+name: pr-test-analyzer / PR测试分析器
 description: Review pull request test coverage quality and completeness, with emphasis on behavioral coverage and real bug prevention.
 model: sonnet
 tools: [Read, Grep, Glob, Bash]

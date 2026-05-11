@@ -1,5 +1,5 @@
 ---
-name: configure-ecc / 配置ECC / 配置ecc / 配置ECC / 配置ecc / 配置ECC / 配置ecc / 配置ECC
+name: configure-ecc / 配置ECC
 description: Interactive installer for Everything Claude Code — guides users through selecting and installing skills and rules to user-level or project-level directories, verifies paths, and optionally optimizes installed files.
 origin: ECC
 ---

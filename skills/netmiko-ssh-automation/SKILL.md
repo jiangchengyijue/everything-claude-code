@@ -1,5 +1,5 @@
 ---
-name: netmiko-ssh-automation / netmikossh自动化 / netmikosshautomation / netmikossh自动化 / netmikosshautomation / netmikossh自动化 / netmikosshautomation / netmikossh自动化
+name: netmiko-ssh-automation / netmikossh自动化
 description: Safe Python Netmiko patterns for read-only collection, bounded batch SSH, TextFSM parsing, guarded config changes, timeouts, and network automation error handling.
 origin: community
 ---

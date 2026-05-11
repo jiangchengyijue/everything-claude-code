@@ -1,5 +1,5 @@
 ---
-name: swift-protocol-di-testing / Swift协议di测试 / Swift协议ditesting / Swift协议di测试 / Swift协议ditesting / Swift协议di测试 / Swift协议ditesting / Swift协议di测试
+name: swift-protocol-di-testing / Swift协议di测试
 description: Protocol-based dependency injection for testable Swift code — mock file system, network, and external APIs using focused protocols and Swift Testing.
 origin: ECC
 ---

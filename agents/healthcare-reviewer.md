@@ -1,5 +1,5 @@
 ---
-name: healthcare-reviewer / 医疗审查器 / 医疗reviewer / 医疗审查器 / 医疗reviewer / 医疗审查器 / 医疗reviewer / 医疗审查器
+name: healthcare-reviewer / 医疗审查器
 description: Reviews healthcare application code for clinical safety, CDSS accuracy, PHI compliance, and medical data integrity. Specialized for EMR/EHR, clinical decision support, and health information systems.
 tools: ["Read", "Grep", "Glob"]
 model: opus

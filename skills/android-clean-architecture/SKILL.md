@@ -1,5 +1,5 @@
 ---
-name: android-clean-architecture / android整洁架构 / android整洁architecture / android整洁架构 / android整洁architecture / android整洁架构 / android整洁architecture / android整洁架构
+name: android-clean-architecture / android整洁架构
 description: Clean Architecture patterns for Android and Kotlin Multiplatform projects — module structure, dependency rules, UseCases, Repositories, and data layer patterns.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: carrier-relationship-management / carrier关系管理 / carrier关系management / carrier关系管理 / carrier关系management / carrier关系管理 / carrier关系management / carrier关系管理
+name: carrier-relationship-management / carrier关系管理
 description: >
   Codified expertise for managing carrier portfolios, negotiating freight rates,
   tracking carrier performance, allocating freight, and maintaining strategic

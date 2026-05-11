@@ -1,5 +1,5 @@
 ---
-name: perl-patterns / Perl模式 / Perlpatterns / Perl模式 / Perlpatterns / Perl模式 / Perlpatterns / Perl模式
+name: perl-patterns / Perl模式
 description: Modern Perl 5.36+ idioms, best practices, and conventions for building robust, maintainable Perl applications.
 origin: ECC
 ---

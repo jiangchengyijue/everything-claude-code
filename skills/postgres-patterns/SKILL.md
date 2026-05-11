@@ -1,5 +1,5 @@
 ---
-name: postgres-patterns / PostgreSQL模式 / PostgreSQLpatterns / PostgreSQL模式 / PostgreSQLpatterns / PostgreSQL模式 / PostgreSQLpatterns / PostgreSQL模式
+name: postgres-patterns / PostgreSQL模式
 description: PostgreSQL database patterns for query optimization, schema design, indexing, and security. Based on Supabase best practices.
 origin: ECC
 ---

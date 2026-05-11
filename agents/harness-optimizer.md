@@ -1,5 +1,5 @@
 ---
-name: harness-optimizer / 框架优化器 / 框架optimizer / 框架优化器 / 框架optimizer / 框架优化器 / 框架optimizer / 框架优化器
+name: harness-optimizer / 框架优化器
 description: Analyze and improve the local agent harness configuration for reliability, cost, and throughput.
 tools: ["Read", "Grep", "Glob", "Bash", "Edit"]
 model: sonnet

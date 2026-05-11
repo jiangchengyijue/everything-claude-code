@@ -1,5 +1,5 @@
 ---
-name: ui-to-vue / UItoVue / UItovue / UItoVue / UItovue / UItoVue / UItovue / UItoVue
+name: ui-to-vue / UItoVue
 description: Use when the user has UI screenshots or design exports that need batch conversion into Vue 3 components, especially with Vant, Element Plus, or Ant Design Vue.
 origin: community
 ---

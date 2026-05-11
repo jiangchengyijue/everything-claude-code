@@ -1,5 +1,5 @@
 ---
-name: team-builder / 团队构建器 / 团队builder / 团队构建器 / 团队builder / 团队构建器 / 团队builder / 团队构建器
+name: team-builder / 团队构建器
 description: Interactive agent picker for composing and dispatching parallel teams
 origin: community
 ---

@@ -1,5 +1,5 @@
 ---
-name: jira-integration / Jira集成integration / Jira集成integration / Jira集成integration / Jira集成integration / Jira集成integration / Jira集成integration / Jira集成integration
+name: jira-integration / Jira集成integration
 description: Use this skill when retrieving Jira tickets, analyzing requirements, updating ticket status, adding comments, or transitioning issues. Provides Jira API patterns via MCP or direct REST calls.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: code-tour / 代码导览 / 代码tour / 代码导览 / 代码tour / 代码导览 / 代码tour / 代码导览
+name: code-tour / 代码导览
 description: Create CodeTour `.tour` files — persona-targeted, step-by-step walkthroughs with real file and line anchors. Use for onboarding tours, architecture walkthroughs, PR tours, RCA tours, and structured "explain how this works" requests.
 origin: ECC
 ---

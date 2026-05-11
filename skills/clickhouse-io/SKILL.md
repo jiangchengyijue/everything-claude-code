@@ -1,5 +1,5 @@
 ---
-name: clickhouse-io / ClickHouseio / ClickHouseio / ClickHouseio / ClickHouseio / ClickHouseio / ClickHouseio / ClickHouseio
+name: clickhouse-io / ClickHouseio
 description: ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads.
 origin: ECC
 ---

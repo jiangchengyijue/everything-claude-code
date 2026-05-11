@@ -1,5 +1,5 @@
 ---
-name: x-api / xAPI / xapi / xAPI / xapi / xAPI / xapi / xAPI
+name: x-api / xAPI
 description: X/Twitter API integration for posting tweets, threads, reading timelines, search, and analytics. Covers OAuth auth patterns, rate limits, and platform-native content posting. Use when the user wants to interact with X programmatically.
 origin: ECC
 ---

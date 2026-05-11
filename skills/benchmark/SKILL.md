@@ -1,5 +1,5 @@
 ---
-name: benchmark / 性能基准 / 性能基准 / 性能基准 / 性能基准 / 性能基准 / 性能基准 / 性能基准
+name: benchmark / 性能基准
 description: Use this skill to measure performance baselines, detect regressions before/after PRs, and compare stack alternatives.
 origin: ECC
 ---

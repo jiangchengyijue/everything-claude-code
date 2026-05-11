@@ -1,5 +1,5 @@
 ---
-name: visa-doc-translate / 签证doc翻译 / 签证doctranslate / 签证doc翻译 / 签证doctranslate / 签证doc翻译 / 签证doctranslate / 签证doc翻译
+name: visa-doc-translate / 签证doc翻译
 description: Translate visa application documents (images) to English and create a bilingual PDF with original and translation
 ---
 

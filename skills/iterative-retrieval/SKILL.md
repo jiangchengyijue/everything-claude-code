@@ -1,5 +1,5 @@
 ---
-name: iterative-retrieval / 迭代检索 / 迭代retrieval / 迭代检索 / 迭代retrieval / 迭代检索 / 迭代retrieval / 迭代检索
+name: iterative-retrieval / 迭代检索
 description: Pattern for progressively refining context retrieval to solve the subagent context problem
 origin: ECC
 ---

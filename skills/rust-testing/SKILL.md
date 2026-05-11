@@ -1,5 +1,5 @@
 ---
-name: rust-testing / Rust测试 / Rusttesting / Rust测试 / Rusttesting / Rust测试 / Rusttesting / Rust测试
+name: rust-testing / Rust测试
 description: Rust testing patterns including unit tests, integration tests, async testing, property-based testing, mocking, and coverage. Follows TDD methodology.
 origin: ECC
 ---

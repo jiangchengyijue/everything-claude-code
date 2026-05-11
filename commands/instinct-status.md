@@ -1,5 +1,5 @@
 ---
-name: instinct-status / instinct状态 / instinctstatus / instinct状态 / instinctstatus / instinct状态 / instinctstatus / instinct状态
+name: instinct-status / instinct状态
 description: Show learned instincts (project + global) with confidence
 command: true
 ---

@@ -1,5 +1,5 @@
 ---
-name: python-testing / Python测试 / Pythontesting / Python测试 / Pythontesting / Python测试 / Pythontesting / Python测试
+name: python-testing / Python测试
 description: Python testing strategies using pytest, TDD methodology, fixtures, mocking, parametrization, and coverage requirements.
 origin: ECC
 ---

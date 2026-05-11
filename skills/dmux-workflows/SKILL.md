@@ -1,5 +1,5 @@
 ---
-name: dmux-workflows / dmux-工作流s / dmuxworkflows / dmux工作流s / dmuxworkflows / dmux工作流s / dmuxworkflows / dmux工作流s
+name: dmux-workflows / dmux-工作流s
 description: Multi-agent orchestration using dmux (tmux pane manager for AI agents). Patterns for parallel agent workflows across Claude Code, Codex, OpenCode, and other harnesses. Use when running multiple agent sessions in parallel or coordinating multi-agent development workflows.
 origin: ECC
 ---

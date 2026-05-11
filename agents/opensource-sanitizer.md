@@ -1,5 +1,5 @@
 ---
-name: opensource-sanitizer / 开源消毒器 / 开源sanitizer / 开源消毒器 / 开源sanitizer / 开源消毒器 / 开源sanitizer / 开源消毒器
+name: opensource-sanitizer / 开源消毒器
 description: Verify an open-source fork is fully sanitized before release. Scans for leaked secrets, PII, internal references, and dangerous files using 20+ regex patterns. Generates a PASS/FAIL/PASS-WITH-WARNINGS report. Second stage of the opensource-pipeline skill. Use PROACTIVELY before any public release.
 tools: ["Read", "Grep", "Glob", "Bash"]
 model: sonnet

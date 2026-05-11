@@ -1,5 +1,5 @@
 ---
-name: network-config-reviewer / 网络配置审查器 / 网络配置reviewer / 网络配置审查器 / 网络配置reviewer / 网络配置审查器 / 网络配置reviewer / 网络配置审查器
+name: network-config-reviewer / 网络配置审查器
 description: Reviews router and switch configurations for security, correctness, stale references, risky change-window commands, and missing operational guardrails.
 tools: ["Read", "Grep"]
 model: sonnet

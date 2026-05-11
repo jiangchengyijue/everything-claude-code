@@ -1,5 +1,5 @@
 ---
-name: council / 评审会 / counCI工作流l / 评审会 / counCI工作流l / 评审会 / counCI工作流l / 评审会
+name: council / 评审会
 description: Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing.
 origin: ECC
 ---

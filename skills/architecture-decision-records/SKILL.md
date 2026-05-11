@@ -1,5 +1,5 @@
 ---
-name: architecture-decision-records / 架构决策记录 / 架构决策records / 架构决策记录 / 架构决策records / 架构决策记录 / 架构决策records / 架构决策记录
+name: architecture-decision-records / 架构决策记录
 description: Capture architectural decisions made during Claude Code sessions as structured ADRs. Auto-detects decision moments, records context, alternatives considered, and rationale. Maintains an ADR log so future developers understand why the codebase is shaped the way it is.
 origin: ECC
 ---

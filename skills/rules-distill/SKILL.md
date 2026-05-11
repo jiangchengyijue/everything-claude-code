@@ -1,5 +1,5 @@
 ---
-name: rules-distill / 规则distill / 规则distill / 规则distill / 规则distill / 规则distill / 规则distill / 规则distill
+name: rules-distill / 规则distill
 description: "Scan skills to extract cross-cutting principles and distill them into rules — append, revise, or create new rule files"
 origin: ECC
 ---

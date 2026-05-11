@@ -1,5 +1,5 @@
 ---
-name: csharp-testing / C#测试 / C#testing / C#测试 / C#testing / C#测试 / C#testing / C#测试
+name: csharp-testing / C#测试
 description: C# and .NET testing patterns with xUnit, FluentAssertions, mocking, integration tests, and test organization best practices.
 origin: ECC
 ---

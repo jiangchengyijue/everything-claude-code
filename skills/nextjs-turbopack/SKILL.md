@@ -1,5 +1,5 @@
 ---
-name: nextjs-turbopack / Next.jsTurbopack / Next.jsturbopack / Next.jsTurbopack / Next.jsturbopack / Next.jsTurbopack / Next.jsturbopack / Next.jsTurbopack
+name: nextjs-turbopack / Next.jsTurbopack
 description: Next.js 16+ and Turbopack — incremental bundling, FS caching, dev speed, and when to use Turbopack vs webpack.
 origin: ECC
 ---

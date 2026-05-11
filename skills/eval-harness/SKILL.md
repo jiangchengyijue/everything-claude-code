@@ -1,5 +1,5 @@
 ---
-name: eval-harness / 评估框架 / 评估harness / 评估框架 / 评估harness / 评估框架 / 评估harness / 评估框架
+name: eval-harness / 评估框架
 description: Formal evaluation framework for Claude Code sessions implementing eval-driven development (EDD) principles
 origin: ECC
 tools: Read, Write, Edit, Bash, Grep, Glob

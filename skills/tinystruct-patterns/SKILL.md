@@ -1,5 +1,5 @@
 ---
-name: tinystruct-patterns / TinyStruct模式 / TinyStructpatterns / TinyStruct模式 / TinyStructpatterns / TinyStruct模式 / TinyStructpatterns / TinyStruct模式
+name: tinystruct-patterns / TinyStruct模式
 description: Use when developing application modules or microservices with the tinystruct Java framework. Covers routing, context management, JSON handling with Builder, and CLI/HTTP dual-mode patterns.
 origin: ECC
 ---

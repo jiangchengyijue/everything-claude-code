@@ -1,5 +1,5 @@
 ---
-name: doc-updater / doc-更新r / docupdater / doc更新r / docupdater / doc更新r / docupdater / doc更新r
+name: doc-updater / doc-更新r
 description: Documentation and codemap specialist. Use PROACTIVELY for updating codemaps and documentation. Runs /update-codemaps and /update-docs, generates docs/CODEMAPS/*, updates READMEs and guides.
 tools: ["Read", "Write", "Edit", "Bash", "Grep", "Glob"]
 model: haiku

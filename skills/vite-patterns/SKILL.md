@@ -1,5 +1,5 @@
 ---
-name: vite-patterns / Vite模式 / Vitepatterns / Vite模式 / Vitepatterns / Vite模式 / Vitepatterns / Vite模式
+name: vite-patterns / Vite模式
 description: Vite build tool patterns including config, plugins, HMR, env variables, proxy setup, SSR, library mode, dependency pre-bundling, and build optimization. Activate when working with vite.config.ts, Vite plugins, or Vite-based projects.
 origin: ECC
 ---

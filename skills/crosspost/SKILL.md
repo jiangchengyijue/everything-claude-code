@@ -1,5 +1,5 @@
 ---
-name: crosspost / 跨平台发布 / 跨平台发布 / 跨平台发布 / 跨平台发布 / 跨平台发布 / 跨平台发布 / 跨平台发布
+name: crosspost / 跨平台发布
 description: Multi-platform content distribution across X, LinkedIn, Threads, and Bluesky. Adapts content per platform using content-engine patterns. Never posts identical content cross-platform. Use when the user wants to distribute content across social platforms.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: literature-review / literature审查 / literaturereview / literature审查 / literaturereview / literature审查 / literaturereview / literature审查
+name: literature-review / literature审查
 description: Systematic literature-review workflow for academic, biomedical, technical, and scientific topics, including search planning, source screening, synthesis, citation checks, and evidence logging.
 origin: community
 ---

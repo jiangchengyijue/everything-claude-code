@@ -1,5 +1,5 @@
 ---
-name: swift-actor-persistence / Swiftactor持久化 / Swiftactorpersistence / Swiftactor持久化 / Swiftactorpersistence / Swiftactor持久化 / Swiftactorpersistence / Swiftactor持久化
+name: swift-actor-persistence / Swiftactor持久化
 description: Thread-safe data persistence in Swift using actors — in-memory cache with file-backed storage, eliminating data races by design.
 origin: ECC
 ---

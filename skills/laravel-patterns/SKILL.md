@@ -1,5 +1,5 @@
 ---
-name: laravel-patterns / Laravel模式 / Laravelpatterns / Laravel模式 / Laravelpatterns / Laravel模式 / Laravelpatterns / Laravel模式
+name: laravel-patterns / Laravel模式
 description: Laravel architecture patterns, routing/controllers, Eloquent ORM, service layers, queues, events, caching, and API resources for production apps.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: flutter-dart-code-review / FlutterDart代码审查 / FlutterDart代码review / FlutterDart代码审查 / FlutterDart代码review / FlutterDart代码审查 / FlutterDart代码review / FlutterDart代码审查
+name: flutter-dart-code-review / FlutterDart代码审查
 description: Library-agnostic Flutter/Dart code review checklist covering widget best practices, state management patterns (BLoC, Riverpod, Provider, GetX, MobX, Signals), Dart idioms, performance, accessibility, security, and clean architecture.
 origin: ECC
 ---

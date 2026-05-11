@@ -1,5 +1,5 @@
 ---
-name: kotlin-reviewer / Kotlin审查器 / Kotlinreviewer / Kotlin审查器 / Kotlinreviewer / Kotlin审查器 / Kotlinreviewer / Kotlin审查器
+name: kotlin-reviewer / Kotlin审查器
 description: Kotlin and Android/KMP code reviewer. Reviews Kotlin code for idiomatic patterns, coroutine safety, Compose best practices, clean architecture violations, and common Android pitfalls.
 tools: ["Read", "Grep", "Glob", "Bash"]
 model: sonnet

@@ -1,5 +1,5 @@
 ---
-name: code-architect / 代码architect / 代码architect / 代码architect / 代码architect / 代码architect / 代码architect / 代码architect
+name: code-architect / 代码架构师
 description: Designs feature architectures by analyzing existing codebase patterns and conventions, then providing implementation blueprints with concrete files, interfaces, data flow, and build order.
 model: sonnet
 tools: [Read, Grep, Glob, Bash]

@@ -1,5 +1,5 @@
 ---
-name: kotlin-coroutines-flows / Kotlincoroutinesflows / Kotlincoroutinesflows / Kotlincoroutinesflows / Kotlincoroutinesflows / Kotlincoroutinesflows / Kotlincoroutinesflows / Kotlincoroutinesflows
+name: kotlin-coroutines-flows / Kotlincoroutinesflows
 description: Kotlin Coroutines and Flow patterns for Android and KMP — structured concurrency, Flow operators, StateFlow, error handling, and testing.
 origin: ECC
 ---

@@ -1,5 +1,5 @@
 ---
-name: typescript-reviewer / TypeScript审查器 / TypeScriptreviewer / TypeScript审查器 / TypeScriptreviewer / TypeScript审查器 / TypeScriptreviewer / TypeScript审查器
+name: typescript-reviewer / TypeScript审查器
 description: Expert TypeScript/JavaScript code reviewer specializing in type safety, async correctness, Node/web security, and idiomatic patterns. Use for all TypeScript and JavaScript code changes. MUST BE USED for TypeScript/JavaScript projects.
 tools: ["Read", "Grep", "Glob", "Bash"]
 model: sonnet

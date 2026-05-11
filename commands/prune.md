@@ -1,5 +1,5 @@
 ---
-name: prune / 清理 / PRune / 清理 / PRune / 清理 / PRune / 清理
+name: prune / 清理
 description: Delete pending instincts older than 30 days that were never promoted
 command: true
 ---

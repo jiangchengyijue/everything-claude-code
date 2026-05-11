@@ -1,5 +1,5 @@
 ---
-name: exa-search / Exa搜索 / Exasearch / Exa搜索 / Exasearch / Exa搜索 / Exasearch / Exa搜索
+name: exa-search / Exa搜索
 description: Neural search via Exa MCP for web, code, and company research. Use when the user needs web search, code examples, company intel, people lookup, or AI-powered deep research with Exa's neural search engine.
 origin: ECC
 ---

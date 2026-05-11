@@ -30,7 +30,7 @@ Look for:
 
 ```markdown
 ---
-name: pattern-name / 模式name / 模式name / 模式name / 模式name / 模式name / 模式name / 模式name
+name: pattern-name / 模式name
 description: "Under 130 characters"
 user-invocable: false
 origin: auto-extracted
